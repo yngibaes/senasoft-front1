@@ -1,0 +1,27 @@
+.contact1{
+    background-color:white;
+    height: 250px;
+    width: 350px;
+    margin-left: 4%;
+    margin-top: 2%;
+    position: relative;
+    left: -20px;
+
+   border: 2px solid rgb(0, 0, 0); 
+ 
+}
+.contac_body{
+    display: flex;
+    }
+    .contac{
+        background-color: rgb(214, 213, 213);
+        height: 900px;
+       
+    }
+    .img10{
+        height: 700px;
+        width: 60%;
+        margin-left: 20%;
+        margin-top: -10%;
+       
+    }

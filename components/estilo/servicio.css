@@ -1,0 +1,92 @@
+.serv{
+    background-color: rgb(214, 213, 213);
+    height: 1200px;
+   
+}
+.titul{
+    padding-top: 2%;
+ margin-left: 45%;
+ }
+.descr{
+    
+    margin-top: 2%;
+    margin-left: 20%;
+        margin-right: 20%;
+        margin-bottom: 2%;
+        
+}
+.serv_body{
+    background-color: rgb(255, 255, 255);
+    padding-top: 1%;
+    margin-left: 20%;
+        margin-right: 20%;
+        padding-bottom: 2%;
+        margin-bottom: 1%;
+}
+.colors{
+    background-color:#b0a885;
+    height: 200px;
+    margin-top: -2%;
+   
+ 
+   
+
+}
+.img5{
+height: 380px;
+width: 250px;
+margin-left: 40%;
+margin-top: 2%;
+
+
+}
+.img6{
+    height: 380px;
+    width: 250px;
+margin-top: -15%;
+ margin-left: 40%;
+
+}
+.serv1{
+    background-color: rgb(0, 0, 0);
+    margin-left: 20%;
+    margin-top:-15%;
+    height: 600px;
+    width: 350px;
+color: white;
+padding-top: 1%;
+padding-left: 5%;
+
+}
+.serv2{
+    background-color: rgb(248, 248, 248);
+   margin-left: 20%;
+    height: 380px;
+    width: 350px;
+   color: black;
+    margin-top: -15%;
+    padding-top: 1%;
+padding-left: 5%;
+}
+.serv3{
+    background-color: rgb(255, 255, 255);
+    
+   margin-left: 60%;
+   height: 600px;
+    width: 350px;
+    margin-top: -30%;
+    color: rgb(0, 0, 0);
+    padding-top: 1%;
+padding-left: 4%;
+  
+}
+.serv4{
+    background-color: rgb(0, 0, 0);
+    margin-top: -20%;
+    height: 350px;
+    width: 350px;
+    margin-left: 60%;
+    color: rgb(255, 255, 255);
+    padding-top: 1%;
+padding-left: 5%;
+}
